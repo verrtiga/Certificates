@@ -7,3 +7,7 @@
 <img src="assets/Proff.Website Coding-1.png" width="400" alt="Proff Web">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=verrtiga&repo=Sedona-Resort)](https://github.com/verrtiga/Sedona-Resort)
+
+<img src="assets/JavaScript - 1.png" width="400" alt="JS">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=verrtiga&repo=2085107-kekstagram-simple-27)](https://github.com/verrtiga/2085107-kekstagram-simple-27)
